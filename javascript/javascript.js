@@ -69,7 +69,7 @@
 //
 //  // controllo//
 //
-//  var userfound = false;
+//  var guestfound = false;
 //
 //
 //  for( var i = 0;  i < email.length; i++ ){
@@ -77,13 +77,29 @@
 //     var item = guest[i];
 //
 //     if( item === guestuser) {
-//         userfound = true;
+//         guestfound = true;
 //     }
 //
 //  }
 //
-//  if(userfound == true) {
+//  if(guestfound == true) {
 //    console.log("Utente trovato, procedi con l\"accesso");
 //  } else(
 //     console.log("errore di autenticazione")
 //  )
+
+
+// quinto esercizio //
+
+// prima variabile //
+
+// var arrayNumeri = [];
+//
+// for (var i = 0; i < 6; i++)  {
+//    var numero = parseInt(prompt("inserisci un numero") );
+//    if(numero % 2 != 0){
+//       arrayNumeri.push(numero);
+//    }
+// }
+//
+// console.log(arrayNumeri);
