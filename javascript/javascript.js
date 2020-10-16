@@ -7,11 +7,11 @@
 //
 //
 // // prima variabile //
-// var num1 = parseint(prompt("Inserisci il primo numero") );
+// var num1 = parseInt(prompt("Inserisci il primo numero") );
 //
 //
 //  // seconda variabile //
-// var num2 = parseint(prompt("Inserisci il secondo numero") );
+// var num2 = parseInt(prompt("Inserisci il secondo numero") );
 //
 //
 //  // output//
@@ -46,3 +46,14 @@
 
 
 // terzo esercizio /7
+
+// prima variabile //
+
+var somma = 0;
+
+for(var i = 0; i <=4; i++){
+   var number = parseInt(prompt("inserisci un numero") );
+   somma = somma + number;
+}
+
+console.log(somma);
