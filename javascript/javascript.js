@@ -16,39 +16,39 @@
 //
 //  // output//
 //  if(num1 > num2) {
-//    console.log("il primo numero" + num1 + "è maggiore");
+//    console.log("il primo numero " + num1 + " è maggiore");
 //  }
 //   else if(num1 < num2 ) {
-//    console.log("il secondo numero " + num2 + "è maggiore");
+//    console.log("il secondo numero " + num2 + " è maggiore");
 //  } else{
 //    console.log("Numeri uguali")
 //  }
 
-// secondo esercizio //
+//secondo esercizio //
 
-// prima variabile //
+//prima variabile //
 
 // var label1 = prompt("inserisci parola 1");
 //
-// // seconda variabile //
+//
+// //seconda variabile //
 // var label2 = prompt("inserisci parola 2");
 //
 // // output//
 //
-// if(label1.lenght > label2.lenght) {
-//   console.log(label1 + "e maggiore di" + label2);
-// }
-// else if(label2.lenght > label1.lenght) {
-//   console.log(label1 + "e minore di" + label2);
+// if(label1.length > label2.length) {
+//   console.log(label1 + " e maggiore di " + label2);
+// }else if(label2.length > label1.length) {
+//   console.log(label1 + " e minore di " + label2);
 // } else{
-//   console.log("la lunghezza di entrame e uguale")
+//   console.log("la lunghezza di entrame e uguale");
 // }
 
 
-// terzo esercizio /7
-
-// prima variabile //
-
+// // terzo esercizio /7
+//
+// // prima variabile //
+//
 // var somma = 0;
 //
 // for(var i = 0; i <=4; i++){
@@ -58,8 +58,8 @@
 //
 // console.log(somma);
 
-// quarto esercizio //
-
+// // quarto esercizio //
+//
 // // prima variabile //
 //  var guest = ["paolo", "fabio", "lorenzo"];
 //
@@ -72,7 +72,7 @@
 //  var guestfound = false;
 //
 //
-//  for( var i = 0;  i < email.length; i++ ){
+//  for( var i = 0;  i < guest.length; i++ ){
 //
 //     var item = guest[i];
 //
