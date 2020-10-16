@@ -49,11 +49,41 @@
 
 // prima variabile //
 
-var somma = 0;
+// var somma = 0;
+//
+// for(var i = 0; i <=4; i++){
+//    var number = parseInt(prompt("inserisci un numero") );
+//    somma = somma + number;
+// }
+//
+// console.log(somma);
 
-for(var i = 0; i <=4; i++){
-   var number = parseInt(prompt("inserisci un numero") );
-   somma = somma + number;
-}
+// quarto esercizio //
 
-console.log(somma);
+// // prima variabile //
+//  var guest = ["paolo", "fabio", "lorenzo"];
+//
+//  // seconda variabile //
+//
+//  var guestuser = prompt("Inserisci il tuo nome").toLowerCase();
+//
+//  // controllo//
+//
+//  var userfound = false;
+//
+//
+//  for( var i = 0;  i < email.length; i++ ){
+//
+//     var item = guest[i];
+//
+//     if( item === guestuser) {
+//         userfound = true;
+//     }
+//
+//  }
+//
+//  if(userfound == true) {
+//    console.log("Utente trovato, procedi con l\"accesso");
+//  } else(
+//     console.log("errore di autenticazione")
+//  )
