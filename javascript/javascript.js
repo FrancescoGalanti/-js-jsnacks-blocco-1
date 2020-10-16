@@ -14,7 +14,7 @@
 // var num2 = parseint(prompt("Inserisci il secondo numero") );
 //
 //
-//  // controllo //
+//  // output//
 //  if(num1 > num2) {
 //    console.log("il primo numero" + num1 + "è maggiore");
 //  }
@@ -26,12 +26,23 @@
 
 // secondo esercizio //
 
+// prima variabile //
+
+// var label1 = prompt("inserisci parola 1");
+//
+// // seconda variabile //
+// var label2 = prompt("inserisci parola 2");
+//
+// // output//
+//
+// if(label1.lenght > label2.lenght) {
+//   console.log(label1 + "e maggiore di" + label2);
+// }
+// else if(label2.lenght > label1.lenght) {
+//   console.log(label1 + "e minore di" + label2);
+// } else{
+//   console.log("la lunghezza di entrame e uguale")
+// }
 
 
-
-
-
-
-
- //
- // var numerogiocatore2 = parseInt(prompt("scegli un secondo numero") );
+// terzo esercizio /7
